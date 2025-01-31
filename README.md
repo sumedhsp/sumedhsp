@@ -9,7 +9,7 @@
 ---
 
 ## 💡 About Me
-I'm a **Software Engineer** with **3 years of experience** in backend development, cloud computing, and distributed systems. Currently, I'm pursuing my **Master’s in Computer Science at NYU**, where I work on cutting-edge projects in **Computer Vision, LiDAR Processing, Retrieval-Augmented Generation (RAG), and Deep Learning**. 
+I'm a **Software Engineer** with **3 years of experience** in backend development, cloud computing, and distributed systems. Currently, I'm pursuing my **Master’s in Computer Science at NYU Tandon**, where I work on cutting-edge projects in **Computer Vision, LiDAR Processing, Retrieval-Augmented Generation (RAG), and Deep Learning**. 
 
 🔹 Passionate about **scalable architectures, AI-driven applications, and cloud-native solutions**.  
 🔹 Strong experience with **AWS, Python, C#, Java, Kubernetes, and DevOps pipelines**.  
