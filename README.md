@@ -58,19 +58,19 @@ I'm a **Software Engineer** with **3 years of experience** in backend developmen
 
 ---
 
-## 📈 GitHub Stats
+<!--## 📈 GitHub Stats
 
 ![Sumedh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumedhsp&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumedhsp&layout=compact&theme=tokyonight)
 
----
+--- 
 
 ## 🔗 Connect with Me!
 💼 [LinkedIn](https://www.linkedin.com/in/sumedh-parvatikar/)  
 📧 [Email](mailto:sumedhsparvatikar@gmail.com)  
 📂 [GitHub](https://github.com/sumedhsp)  
 
----
+----->
 
 🔥 Always open to collaborations on **Cloud Computing, AI, and Backend Engineering** projects. Let’s build something awesome together! 🚀
 
